@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+This is the central organization of the [Centre for Philology and Digitality (ZPD) of the University of Würzburg](https://www.uni-wuerzburg.de/zpd/).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you're interested in Optical Character Recognition and the tools we develop, feel free to visit our [OCR4all organization](https://github.com/ocr4all/).
+If you want to know more about the Digital Editions we develop, check out the [ZPD Digital Editions organization](https://github.com/zpd-digital-editions).
